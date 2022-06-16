@@ -29,18 +29,26 @@ form {
 }
 input[type="text"], input[type="password"] , input[type="email"] {
   margin: 10px;
-  width: 380px;
-  height: 30px;
+  width: 370px;
+  height: 35px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
 }
 input[type="submit"] {
   width: 390px;
   margin: 10px;
-  height: 30px;
+  height: 35px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
 }
 button 
 {
-  width: 300px;
-  margin: 10px;
-  height: 30px;
+  width: 420px;
+  margin-top: 10px;
+  height: 36px;
+  background-color: hsl(248, 32%, 49%);
+  border: none;
+  border-radius: 10px;
+  color: azure;
 }
 
