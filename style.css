@@ -26,6 +26,9 @@ form {
   width: 420px;
   margin-top: 5%;
   border-radius: 10px;
+  margin-left: 5%;
+  box-shadow: -3px 3px hsl(246, 25%, 77%), hsl(246, 25%, 77%), hsl(246, 25%, 77%);
+  border-bottom: 3px solid hsl(246, 25%, 77%);
 }
 input[type="text"], input[type="password"] , input[type="email"] {
   margin: 10px;
@@ -35,20 +38,25 @@ input[type="text"], input[type="password"] , input[type="email"] {
   border: 1px solid #ccc;
 }
 input[type="submit"] {
-  width: 390px;
+  width: 375px;
   margin: 10px;
   height: 35px;
   border-radius: 5px;
   border: 1px solid #ccc;
+  background-color: hsl(154, 59%, 51%);
+  color: azure;
 }
 button 
 {
-  width: 420px;
+  margin-left: 5%;
+  width: 410px;
   margin-top: 10px;
   height: 36px;
   background-color: hsl(248, 32%, 49%);
   border: none;
   border-radius: 10px;
   color: azure;
+  box-shadow: -3px 3px hsl(246, 25%, 77%), hsl(246, 25%, 77%), hsl(246, 25%, 77%);
+  border-bottom: 3px solid hsl(246, 25%, 77%);
 }
 
