@@ -65,7 +65,6 @@ main .form-container p:first-child {
     cursor: pointer;
     line-height: 25px;
     box-shadow: 0 6px rgba(0, 0, 0, 0.3);
-    /* border-bottom: 3px solid gray; */
 }
 
 main form {
